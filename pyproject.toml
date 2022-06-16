@@ -8,7 +8,7 @@ authors = ["Hasan <mr.k779@outlook.com>"]
 python = ">=3.9,<3.10"
 fastapi = "^0.70.1"
 uvicorn = {extras = ["standard"], version = "^0.16.0"}
-tensorflow = "^2.7.0"
+tensorflow = "^2.7.2"
 
 [tool.poetry.dev-dependencies]
 
